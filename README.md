@@ -1,3 +1,4 @@
 # Cube-Kicker
 
-- [ ] 🧊 public ?
+- [ ] 🧊 public ? 
+- [ ] Le wiki disparait en private...
