@@ -2,4 +2,4 @@ Projet de jeu sous plateforme Androïd à but pédagogique.
 Ce jeu à pour but d'initier le joueur au concept de l'algorithmique au sens large et Naturelle.
 Mettant en avant des principes et concepts tels que la réflexion, l'auto-réflectivité  (A. Korzybski), la notion d'itération, la rétro-ingénierie, and much more... 
 
-Vendredi 26 mai 2023, 15:28:55 - Premier jet.
+Vendredi 26 mai 2023, 15:28:55
