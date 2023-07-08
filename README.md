@@ -15,7 +15,7 @@ Laboratoire pour le développement d'un moteur d'agrégation informatique.
 
 ![Sans titre](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/04b02438-b612-4b62-95e5-9c222d37c0ee)
 
-[DigiCraft & BlowFactory à la Maison du Japon](https://www.facebook.com/plugins/post.phphref=https%3A%2F%2Fwww.facebook.com%2Flbeysson%2Fposts%2F1955202478143697&show_text=true")
+[DigiCraft & BlowFactory à la Maison du Japon](https://www.facebook.com/100003019601542/videos/pcb.1195016610608981/1195016290609013)
 ##
 ![black](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/b6674a52-f72b-4b0c-a742-c9384e0664a8)![DigiCraft](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/b19e7136-1466-45af-a2ec-706c7f97d94b)]
 
@@ -23,7 +23,6 @@ https://blowfactory.com/
 
 https://www.facebook.com/lbeysson
 ##
-
 
 
 
