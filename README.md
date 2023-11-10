@@ -1,8 +1,8 @@
 # Cube-Kicker
 ## Laboratoire pour le développement d'un moteur digital d'agrégation de l'information.
 
-[github.com/LordGrrr/Cube-Kicker/wiki](https://github.com/LordGrrr/Cube-Kicker/wiki)
-
+[github.com/LordGrrr/Cube-Kicker/wiki](https://github.com/LordGrrr/Cube-Kicker/wiki)  
+⚠️ Ce wiki est en cours de réalisation⚠️ (livraison prévu pour 2026)
 ##
 ![images3](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/52c06e32-0078-41ce-aeee-d95c682c6eff)
 ![images](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/23819ca3-0797-4d66-8a1f-36e8628cd129)
