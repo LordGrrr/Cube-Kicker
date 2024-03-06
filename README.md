@@ -26,6 +26,7 @@ As like The _Never ending story_ This Project intend to be a **Never Ending Proj
 
 *******************************************************************************************  
 *******************************************************************************************  
-## CANVAS diagram _iteration ONE_
-![Canvas drawio](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/9fd6a14a-ebfc-4c7a-9d5a-3f5fc18272fb)  
+## CANVAS diagram (_iteration ONE_)
 _Pondu dans la nuit du 5 au 6 mars 2024_
+![Canvas drawio](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/9fd6a14a-ebfc-4c7a-9d5a-3f5fc18272fb)  
+
