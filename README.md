@@ -22,10 +22,7 @@ As like The _Never ending story_ This Project intend to be a **Never Ending Proj
 (Hologramme kinétique)  
 *******************************************************************************************  
 *******************************************************************************************  
-![Sans titre](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/56a2a0cc-1b62-4b5c-b15f-155c18cc24eb)
 
-*******************************************************************************************  
-*******************************************************************************************  
 ## Scalable CANVAS (A.P.A.) diagram (_iteration TWO_)
 ![Canvas_A P A drawio](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/4419665f-3bf4-4051-b94f-414cb2310dd2)
 
