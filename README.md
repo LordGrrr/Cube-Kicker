@@ -1,4 +1,4 @@
-# Cube-Kicker
+# Cube-Kicker U₀=1
 ## Laboratoire pour le développement d'un moteur digital d'agrégation de l'information.
 
 [github.com/LordGrrr/Cube-Kicker/wiki](https://github.com/LordGrrr/Cube-Kicker/wiki)  
