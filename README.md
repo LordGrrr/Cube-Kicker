@@ -1,6 +1,7 @@
 # Cube-Kicker 
-U₀=1
-Un = Uₙ₋₁+7
+U₀=1  
+Un = Uₙ₋₁+7  
+  
 ## Laboratoire pour le développement d'un moteur digital d'agrégation de l'information.
 
 [github.com/LordGrrr/Cube-Kicker/wiki](https://github.com/LordGrrr/Cube-Kicker/wiki)  
