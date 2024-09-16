@@ -1,6 +1,7 @@
 # Cube-Kicker 
 U₀=1  
 Uₙ=Uₙ₋₁+7  
+n = [0,1,2,3]
   
 ## Laboratoire pour le développement d'un moteur digital d'agrégation de l'information.
 
