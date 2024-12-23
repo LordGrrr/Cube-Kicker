@@ -20,6 +20,8 @@ Uₙ=Uₙ₋₁+7
 As like The _Never ending story_ This Project intend to be a **Never Ending Project**...  
 
 *******************************************************************************************  
+![BlowIndustry Project drawio](https://github.com/user-attachments/assets/4b135690-d164-4429-b610-3b4d41522d80)
+
 *******************************************************************************************  
 ### Algo source:  
 ![20240129_063058](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/aaa676b2-8bcc-432d-b0a8-a49e27e19d03)
