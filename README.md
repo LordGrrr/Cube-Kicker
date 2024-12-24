@@ -35,5 +35,5 @@ Paula Onzari, propriétaire de Laurent BEYSSON.
 ![Canvas_A P A drawio](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/4419665f-3bf4-4051-b94f-414cb2310dd2)
 
 ## Runing exemple
-![20240817_125737](https://github.com/user-attachments/assets/b9e797cc-ccd0-4a23-b7a9-dedf3c87a832)
-
+![20240817_125737](https://github.com/user-attachments/assets/b9e797cc-ccd0-4a23-b7a9-dedf3c87a832)  
+_A Motor generates combinasions and the A.P.A va les ranger._
