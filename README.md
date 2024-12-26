@@ -21,8 +21,7 @@ As like The _Never ending story_ This Project intend to be a **Never Ending Proj
 
 *******************************************************************************************  
 ![262319794-f9bb4666-e515-406c-9a8a-5c4dfb14c367](https://github.com/user-attachments/assets/5307459e-9d3e-4826-9ee6-c56d129ed687)  
-![BlowIndustry Project drawio](https://github.com/user-attachments/assets/4b135690-d164-4429-b610-3b4d41522d80)  
-Paula Onzari, propriétaire de Laurent BEYSSON.
+
 *******************************************************************************************  
 ### Algo source:  
 ![20240129_063058](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/aaa676b2-8bcc-432d-b0a8-a49e27e19d03)
