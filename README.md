@@ -17,6 +17,9 @@ Uₙ=Uₙ₋₁+7
   
 ## Laboratoire pour le développement d'un moteur digital d'agrégation de l'information (intel agregation).
 
+Informatique: Automatisation de la gestion de l'information.  
+Intelmatic: Automated managment of the intel.
+
 [github.com/LordGrrr/Cube-Kicker/wiki](https://github.com/LordGrrr/Cube-Kicker/wiki)  
 ⚠️ Ce wiki est en cours de réalisation⚠️ (livraison prévu pour 2026)
 ##
