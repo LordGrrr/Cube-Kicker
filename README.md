@@ -1,3 +1,14 @@
+ ## Je doute
+_Il y a déjà quelque temps que je me suis aperçu que, dès mes premières années, j'avais reçu quantité de fausses opinions pour véritables, et que ce que j'ai depuis fondé sur des principes si mal assurés, ne pouvait être que fort douteux et incertain ; de façon qu'il me fallait entreprendre sérieusement une fois en ma vie de me défaire de toutes les opinions que j'avais reçues jusques alors en ma créance, et commencer tout de nouveau dès les fondements, si je voulais établir quelque chose de ferme et de constant dans les sciences._   
+_**Réné Descarte**_
+
+Post-scriptum: _"Je pense donc je suis."_ (12) (Penser, (être, suivre))
+
+## I doubt
+_It is some time since I have perceived that, from my earliest years, I had received a quantity of false opinions as true, and that what I have since founded on such unsure principles could only be doubtful and uncertain; so that I must undertake seriously once in my life to rid myself of all the opinions that I had received until then as my belief, and to begin all over again from the foundations, if I wished to establish something firm and constant in the sciences._  
+Translated from _**Réné Descarte**_ by GoogleTranslate, with Beysson look over.
+
+
 # Cube-Kicker 
 n = [0,1,2,3]  
 U₀=1  
