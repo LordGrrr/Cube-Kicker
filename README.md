@@ -54,3 +54,7 @@ As like The _Never ending story_ This Project intend to be a **Never Ending Proj
 ## Runing exemple
 ![20240817_125737](https://github.com/user-attachments/assets/b9e797cc-ccd0-4a23-b7a9-dedf3c87a832)  
 _A Motor generates combinasions and the A.P.A va les ranger._
+
+## Minus Inside & Maximus outside
+![20250203_122006](https://github.com/user-attachments/assets/3fc8456d-b588-4a41-bef8-cedd8edb6171)  
+(-): Virtuel, (+): Physics 
