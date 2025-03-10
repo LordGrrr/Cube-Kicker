@@ -24,7 +24,7 @@ Translated from _**Réné Descarte**_ by GoogleTranslate, with Beysson look over
 
 
 # Cube-Kicker 
-n = [0,1,2,3]  
+n = [0,1,2,3,4]  
 U₀=1  
 Uₙ=Uₙ₋₁+7  
 
