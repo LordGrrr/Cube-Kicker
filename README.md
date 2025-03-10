@@ -1,9 +1,9 @@
 # Nodal Point: 4
 **2 (+) 2 = 2 (×) 2 = 2<sup>(2)</sup> = 2! = 4**  
-* **\+** compréhension / _step-by-step_  / Addition
-* **x** utilisation / _"ça marche"_  / Démultiplication
-* **<sup>(2)</sup>** navigation/ gestion  / Augmentation
-* **Factoriel (!)** automatisation / gestion  / Régulation
+* **\+** Compréhension / _step-by-step_  / Addition
+* **x** Utilisation / _"ça marche"_  / Démultiplication
+* **<sup>(2)</sup>** Navigation/ gestion  / Augmentation
+* **Factoriel (!)** Automatisation / gestion  / Régulation
 ## L'Adaptation, Jean PIAGET
  ![jean_piaget1896](https://github.com/user-attachments/assets/dae396e8-6422-47b7-8e27-8dfa0a91b736)  
 
