@@ -1,5 +1,7 @@
 # Nodal Point: 4
 Unité (14): _"Une personne avec 4 propriètés."_  
+Énergie: _"Ce qui met "les choses" en mouvements."_ 
+ex: Les enfants dans une société.
   
 **2 (+) 2 = 2 (×) 2 = 2<sup>(2)</sup> = 2! = 4**  
   
