@@ -21,7 +21,7 @@ Pour établir un gradient _distance_, on pourrait se représenter les nouvelles 
 > * **#3: <sup>(2)</sup>** Navigation / _"ça fonctionne"_  / Démultiplication  
 > * **#4: Factoriel (!)** Automatisation / Gestion  / Régulation
   
-> * **#1: (101)** Intuition  
+> **#1: (101)** Intuition  
 ```ruby
 Structurant le Tempo:
 #00: Instinc, sentir, voir, envie, besoin,
