@@ -3,7 +3,7 @@
 * **#1: (\+)** Compréhension / _step-by-step_  / Addition
 * **#2: (x)** Utilisation / _"ça marche"_  / Augmentation
 * **#3: <sup>(2)</sup>** Navigation / _"ça fonctionne"_  / Démultiplication
-* **#4: Factoriel (!)** Automatisation / gestion  / Régulation
+* **#4: Factoriel (!)** Automatisation / Gestion  / Régulation
 ## L'Adaptation, Jean PIAGET
  ![jean_piaget1896](https://github.com/user-attachments/assets/dae396e8-6422-47b7-8e27-8dfa0a91b736)  
 
