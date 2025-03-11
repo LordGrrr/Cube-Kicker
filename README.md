@@ -7,6 +7,12 @@ Unité (14): _"Une personne avec 4 propriètés."_
 * **#3: <sup>(2)</sup>** Navigation / _"ça fonctionne"_  / Démultiplication
 * **#4: Factoriel (!)** Automatisation / Gestion  / Régulation
 
+```ruby
+#1: {Adiition, Compréhension, Séquence , Tempo,  
+#2: {Utilisation, Augmentation, Parallèle, Superposition, 
+#3: {Navigation, Démultiplication, Croissance, 
+#4: {Combinaisons, Automatisation, Gestion, Régulation, Développement, 
+```
 ##  _la Tricoteuse_
 ### Main carrier, la graine (22)
 Concept d'***itérations***. John Conway (Look 'n' say).
