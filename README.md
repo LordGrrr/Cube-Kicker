@@ -1,4 +1,6 @@
 # Nodal Point: 4
+Unité (14): _"Une personne avec 4 propriètés."_  
+  
 **2 (+) 2 = 2 (×) 2 = 2<sup>(2)</sup> = 2! = 4**  
 * **#1: (\+)** Compréhension / _step-by-step_  / Addition
 * **#2: (x)** Utilisation / _"ça marche"_  / Augmentation
