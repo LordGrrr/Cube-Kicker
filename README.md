@@ -11,6 +11,10 @@
 **Pour Piaget, l'intelligence n'est qu'une forme plus élaborée de l'adaptation biologique. L'adaptation d'un individu à son environnement est le résultat d'un processus de transformation tendant vers l'équilibre.**  
 Source: https://fr.wikipedia.org/wiki/Jean_Piaget
 
+
+## Main carrier
+### La graine (22)
+John Conway (Look 'n' say)
 ***
  ## Je doute
 _Il y a déjà quelque temps que je me suis aperçu que, dès mes premières années, j'avais reçu quantité de fausses opinions pour véritables, et que ce que j'ai depuis fondé sur des principes si mal assurés, ne pouvait être que fort douteux et incertain ; de façon qu'il me fallait entreprendre sérieusement une fois en ma vie de me défaire de toutes les opinions que j'avais reçues jusques alors en ma créance, et commencer tout de nouveau dès les fondements, si je voulais établir quelque chose de ferme et de constant dans les sciences._   
