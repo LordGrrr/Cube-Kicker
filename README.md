@@ -1,9 +1,19 @@
 # Nodal Point: 4
 Unité (14): _"Une personne avec 4 propriètés."_  
-**Énergie/Moteur: _"Ce qui met "les choses" en mouvements."_**   
-ex: Les enfants dans une société.
-  
 **2 (+) 2 = 2 (×) 2 = 2<sup>(2)</sup> = 2! = 4**  
+  
+**Énergie/Moteur: _"Ce qui met "les choses" en mouvements."_**   
+### Example:
+Les enfants dans une société. La **croissance** obligeant le **développement** par phénomème de division cellulaire (a.d.n.).  
+Bref, ça pousse!  
+  
+![final_57ab279fea8882 20722393](https://github.com/user-attachments/assets/3a2193f1-3c32-4cde-b535-aeeb46f867f3)  
+<sup>Cellules Eucaryotes</sup>  
+C'est au moment de la division que la génétique s'exprime, lors de la la recombinaison de l'arn en adn, de chaque chromosomes.  
+Pour établir un gradient _distance_, on pourrait se représenter les nouvelles cellules, venuent de _nul part_, venuent du _centre_, venu de la _colonne vertébrale_, allant vers la surface, vers le peau, vers l'atmosphère. Le tout **propulser** par la **division cellulaire**.
+
+
+
   
 > **#0: (0)** Instinct
 > * **#1: (\+)** Compréhension / _step-by-step_  / Addition  
