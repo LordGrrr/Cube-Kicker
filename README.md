@@ -11,7 +11,7 @@ Bref, ça pousse!
 ![final_57ab279fea8882 20722393](https://github.com/user-attachments/assets/3a2193f1-3c32-4cde-b535-aeeb46f867f3)  
 <sup>Cellules Eucaryotes</sup>  
 C'est au moment de la division que la génétique s'exprime, lors de la la recombinaison de l'arn en adn, de chaque chromosomes.  
-Pour établir un gradient _distance_, on pourrait se représenter les nouvelles cellules, venuent de _nul part_, venuent du _centre_, venu de la _colonne vertébrale_, allant vers la surface, vers le peau, vers l'atmosphère. Le tout **propulser** par la **division cellulaire**.
+On pourrait se représenter de façon allégorique, les nouvelles cellules, venuent de _nul part_, venuent du _centre_, venu de la _colonne vertébrale_, allant vers la surface, vers le peau, vers l'atmosphère. Le tout **propulser** par la **division cellulaire** générant un _**"stream"**_ de celulles engrammées. Afin d'établir un gradient _distance_ de jeunes cellules à veilles cellules.
 
 
 
