@@ -8,8 +8,9 @@ Unité (14): _"Une personne avec 4 propriètés."_
 * **#4: Factoriel (!)** Automatisation / Gestion  / Régulation
 
 ```ruby
-#1: {Adiition, Compréhension, Séquence , Tempo, Impulsion,  
-#2: {Utilisation, Augmentation, Parallèle, Superposition, 
+Participant au Tempo:
+#1: {Adiition, Compréhension, Séquence , Impulsion,  
+#2: {Utilisation, Augmentation, Parallèle, Superposition, Intensité,
 #3: {Navigation, Démultiplication, Croissance,  Fréquence d'Impulsion, 
 #4: {Combinaisons, Automatisation, Gestion, Régulation, Développement, 
 ```
