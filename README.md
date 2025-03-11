@@ -31,7 +31,7 @@ Participant au Tempo:
 #02: {Utilisation, Augmentation, Parallèle, Superposition, Intensité,
 #03: {Navigation, Démultiplication, Croissance,  Fréquence-d'Impulsion, 
 #04: {Combinaisons, Automatisation, Gestion, Régulation, Développement,
-  
+Environnement, Ambiant, Résultante  
 #10: {Arc-en-Ciel, Frange, Harmonie, Équilibre, Amour, Famille, Musique, 
 ```
 ##  _la Tricoteuse_
