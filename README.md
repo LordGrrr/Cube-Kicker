@@ -2,12 +2,15 @@
 Unité (14): _"Une personne avec 4 propriètés."_  
   
 **2 (+) 2 = 2 (×) 2 = 2<sup>(2)</sup> = 2! = 4**  
+* **#0: (0)** Instinct
 * **#1: (\+)** Compréhension / _step-by-step_  / Addition
 * **#2: (x)** Utilisation / _"ça marche"_  / Augmentation
 * **#3: <sup>(2)</sup>** Navigation / _"ça fonctionne"_  / Démultiplication
 * **#4: Factoriel (!)** Automatisation / Gestion  / Régulation
-
+* **#5: (101)** Intuition
 ```ruby
+Structurant le Tempo:
+#0: Instinc, sentir, voir, envie, besoin,
 Participant au Tempo:
 #1: {Adiition, Compréhension, Séquence , Impulsion,  
 #2: {Utilisation, Augmentation, Parallèle, Superposition, Intensité,
