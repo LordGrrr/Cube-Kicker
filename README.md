@@ -5,9 +5,11 @@
 * **#3: <sup>(2)</sup>** Navigation / _"ça fonctionne"_  / Démultiplication
 * **#4: Factoriel (!)** Automatisation / Gestion  / Régulation
 
-## Main carrier
-### La graine (22)
-John Conway (Look 'n' say)
+##  _la Tricoteuse_
+### Main carrier, la graine (22)
+Concept d'***itérations***. John Conway (Look 'n' say).
+
+
 
 ## L'Adaptation, Jean PIAGET
  ![jean_piaget1896](https://github.com/user-attachments/assets/dae396e8-6422-47b7-8e27-8dfa0a91b736)  
