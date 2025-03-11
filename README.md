@@ -14,7 +14,7 @@ Participant au Tempo:
 #3: {Navigation, Démultiplication, Croissance,  Fréquence-d'Impulsion, 
 #4: {Combinaisons, Automatisation, Gestion, Régulation, Développement,
   
-#5: {Arc-en-Ciel, Frange, Harmonie, Équilibre, Amour, 
+#5: {Arc-en-Ciel, Frange, Harmonie, Équilibre, Amour, Musique, 
 ```
 ##  _la Tricoteuse_
 ### Main carrier, la graine (22)
