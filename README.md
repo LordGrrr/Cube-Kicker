@@ -11,8 +11,10 @@ Unité (14): _"Une personne avec 4 propriètés."_
 Participant au Tempo:
 #1: {Adiition, Compréhension, Séquence , Impulsion,  
 #2: {Utilisation, Augmentation, Parallèle, Superposition, Intensité,
-#3: {Navigation, Démultiplication, Croissance,  Fréquence d'Impulsion, 
-#4: {Combinaisons, Automatisation, Gestion, Régulation, Développement, 
+#3: {Navigation, Démultiplication, Croissance,  Fréquence-d'Impulsion, 
+#4: {Combinaisons, Automatisation, Gestion, Régulation, Développement,
+  
+#5: {Arc-en-Ciel, Frange, Harmonie, Équilibre, Amour, 
 ```
 ##  _la Tricoteuse_
 ### Main carrier, la graine (22)
