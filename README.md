@@ -2,22 +2,24 @@
 Unité (14): _"Une personne avec 4 propriètés."_  
   
 **2 (+) 2 = 2 (×) 2 = 2<sup>(2)</sup> = 2! = 4**  
-* **#0: (0)** Instinct
-* **#1: (\+)** Compréhension / _step-by-step_  / Addition
-* **#2: (x)** Utilisation / _"ça marche"_  / Augmentation
-* **#3: <sup>(2)</sup>** Navigation / _"ça fonctionne"_  / Démultiplication
-* **#4: Factoriel (!)** Automatisation / Gestion  / Régulation
-* **#5: (101)** Intuition
+  
+> **#0: (0)** Instinct
+> * **#1: (\+)** Compréhension / _step-by-step_  / Addition  
+> * **#2: (x)** Utilisation / _"ça marche"_  / Augmentation  
+> * **#3: <sup>(2)</sup>** Navigation / _"ça fonctionne"_  / Démultiplication  
+> * **#4: Factoriel (!)** Automatisation / Gestion  / Régulation
+  
+> * **#1: (101)** Intuition  
 ```ruby
 Structurant le Tempo:
-#0: Instinc, sentir, voir, envie, besoin,
+#00: Instinc, sentir, voir, envie, besoin,
 Participant au Tempo:
-#1: {Adiition, Compréhension, Séquence , Impulsion,  
-#2: {Utilisation, Augmentation, Parallèle, Superposition, Intensité,
-#3: {Navigation, Démultiplication, Croissance,  Fréquence-d'Impulsion, 
-#4: {Combinaisons, Automatisation, Gestion, Régulation, Développement,
+#01: {Adiition, Compréhension, Séquence , Impulsion,  
+#02: {Utilisation, Augmentation, Parallèle, Superposition, Intensité,
+#03: {Navigation, Démultiplication, Croissance,  Fréquence-d'Impulsion, 
+#04: {Combinaisons, Automatisation, Gestion, Régulation, Développement,
   
-#5: {Arc-en-Ciel, Frange, Harmonie, Équilibre, Amour, Musique, 
+#10: {Arc-en-Ciel, Frange, Harmonie, Équilibre, Amour, Famille, Musique, 
 ```
 ##  _la Tricoteuse_
 ### Main carrier, la graine (22)
