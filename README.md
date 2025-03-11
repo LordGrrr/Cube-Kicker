@@ -3,7 +3,7 @@ Unité (14): _"Une personne avec 4 propriètés."_
 **2 (+) 2 = 2 (×) 2 = 2<sup>(2)</sup> = 2! = 4**  
 
 # Minimums: 2
-**Énergie/Moteur: _"Ce qui met "les choses" en mouvements."_**   
+**Énergie + Moteur: _Ce qui met "les choses" en mouvements._**   
 ### Example:
 Les enfants dans une société. La **croissance** obligeant le **développement** par phénomème de division cellulaire (a.d.n.).  
 Bref, ça pousse!  
