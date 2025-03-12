@@ -35,12 +35,24 @@ Participant au Tempo:
 Environnement, Ambiant, Résultante  
 #10: {Arc-en-Ciel, Frange, Harmonie, Équilibre, Amour, Famille, Musique, 
 ```
-##  _la Tricoteuse_
-### Main carrier, la graine (22)
+#  _la Tricoteuse_
+## Main carrier, la graine (22)
 Concept d'***itérations***. John Conway (Look 'n' say).
+## L'Inter-action
+Concept d'**Action-Résultante**.
 
+## La Physique
+Concept d'**Action-Réaction**.
 
-
+### La mémoire de cheminement
+Cheminement, trajéctoire, durées, distances.
+```
+Pass #1 {
+   ite #1: Coup d'avant amène **ici**. (Look 'n' say)
+   ite #2: tempo: (0)
+   ite #3: Coup d'après emmène **ailleurs**. (Action-Résultante)
+} tempo => delta en ms
+```
 ## L'Adaptation, Jean PIAGET
  ![jean_piaget1896](https://github.com/user-attachments/assets/dae396e8-6422-47b7-8e27-8dfa0a91b736)  
 
