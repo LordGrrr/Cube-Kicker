@@ -11,8 +11,8 @@ Bref, ça pousse!
 ![final_57ab279fea8882 20722393](https://github.com/user-attachments/assets/3a2193f1-3c32-4cde-b535-aeeb46f867f3)  
 <sup>Cellules Eucaryotes</sup>  
 C'est au moment de la division que la génétique s'exprime, lors de la recombinaison de l'arn en adn, de chaque chromosomes. **L'environnement** de l'actuel y est donc **PREDOMINANT**.  
-On pourrait se représenter de façon allégorique, les nouvelles cellules, venuent de _nul part_, venuent du _centre_, venu de la _colonne vertébrale_, allant vers la surface, vers le peau, vers l'atmosphère. Le tout **propulser** par la **division cellulaire** générant un _**"stream"**_ de celulles engrammées, le sang.  
-Afin d'établir un gradient _distance_ de jeunes cellules à veilles cellules. Certaines étant présentent depuis le début (fœtus) et donc peut enclain à bouger. Elles font office de structure, c'est le corps.
+On pourrait se représenter de façon allégorique, les nouvelles cellules, venuent de _nul part_, venuent du _centre_, venuent de la _colonne vertébrale_, allant vers la surface, vers le peau, vers l'atmosphère, afin d'établir un gradient _distance_ de jeunes cellules à veilles cellules. Certaines étant présentent depuis le début (fœtus) et donc peut enclain à bouger. Elles font office de structure, **c'est le corps**, le tout **propulser** par la **division cellulaire** générant un _**"stream"**_ de celulles engrammées, **c'est le sang**.  
+
 
 
 
