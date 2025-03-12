@@ -13,8 +13,8 @@ Bref, ça pousse!
 C'est au moment de la division que la génétique s'exprime, lors de la recombinaison de l'arn en adn, de chaque chromosomes. **L'environnement** de l'actuel y est donc **PREDOMINANT**.  
 On pourrait se représenter de façon allégorique, les nouvelles cellules, venuent de _nul part_, venuent du _centre_, venuent de la _colonne vertébrale_, allant vers la surface, vers le peau, vers l'atmosphère, afin d'établir un gradient _distance_ de jeunes cellules à veilles cellules. Certaines étant présentent depuis le début (fœtus) et donc peut enclain à bouger. Elles font office de structure, **c'est le corps**. Le tout **propulser** par la **division cellulaire** générant un _**"stream"**_ de celulles engrammées, plus ou moins _vieilles_ (c.à.d. sophistiquées par le processus de transport<sup>(1)</sup> et de division<sup>(2)</sup>) **c'est le sang**.  
 
-<sup>(1)</sup> Génèse, Environement  
-<sup>(2)</sup> Update, Upgrade  
+<sup>(1)</sup> Génèse, Nouveauté, Environement  
+<sup>(2)</sup> Update, Upgrade, Quantité  
 
 
 #  Conscience, _la Tricoteuse_
