@@ -11,12 +11,11 @@ Bref, ça pousse!
 ![final_57ab279fea8882 20722393](https://github.com/user-attachments/assets/3a2193f1-3c32-4cde-b535-aeeb46f867f3)  
 <sup>Cellules Eucaryotes</sup>  
 C'est au moment de la division que la génétique s'exprime, lors de la recombinaison de l'arn en adn, de chaque chromosomes. **L'environnement** de l'actuel y est donc **PREDOMINANT**.  
-On pourrait se représenter de façon allégorique, les nouvelles cellules, venuent de _nul part_, venuent du _centre_, venuent de la _colonne vertébrale_, allant vers la surface, vers le peau, vers l'atmosphère, afin d'établir un gradient _distance_ de jeunes cellules à veilles cellules. Certaines étant présentent depuis le début (fœtus) et donc peut enclain à bouger. Elles font office de structure, **c'est le corps**, le tout **propulser** par la **division cellulaire** générant un _**"stream"**_ de celulles engrammées, **c'est le sang**.  
+On pourrait se représenter de façon allégorique, les nouvelles cellules, venuent de _nul part_, venuent du _centre_, venuent de la _colonne vertébrale_, allant vers la surface, vers le peau, vers l'atmosphère, afin d'établir un gradient _distance_ de jeunes cellules à veilles cellules. Certaines étant présentent depuis le début (fœtus) et donc peut enclain à bouger. Elles font office de structure, **c'est le corps**, le tout **propulser** par la **division cellulaire** générant un _**"stream"**_ de celulles engrammées, plus ou moins _vieilles_ (c.à.d. sophistiquées par le processus de transport et de division) **c'est le sang**.  
 
 
-
-
-  
+#  Conscience, _la Tricoteuse_
+<sup>**2 (+) 2 = 2 (×) 2 = 2<sup>(2)</sup> = 2! = 4**  </sup>    
 > **#0: (0)** Instinct
 > * **#1: (\+)** Compréhension / _step-by-step_  / Addition  
 > * **#2: (x)** Utilisation / _"ça marche"_  / Augmentation  
@@ -35,14 +34,14 @@ Participant au Tempo:
 Environnement, Ambiant, Résultante  
 #10: {Arc-en-Ciel, Frange, Harmonie, Équilibre, Amour, Famille, Musique, 
 ```
-#  _la Tricoteuse_
 ## Main carrier, la graine (22)
-Concept d'***itérations***. John Conway (Look 'n' say).
+(+0.1) Concept d'***itérations***. John Conway (Look 'n' say).  
+  
 ## L'Inter-action
-Concept d'**Action-Résultante**.
+(+0.5) Concept d'**Action-Résultante**.
 
 ## La Physique
-Concept d'**Action-Réaction**.
+(±1.0) Concept d'**Action-Réaction**.
 
 ### La mémoire de cheminement
 Cheminement, trajéctoire, durées, distances.
