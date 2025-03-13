@@ -1,6 +1,6 @@
 # Middleware (101)
 ## Cube-Kicker 
-n = [0,1,2,3,4]  
+n = [0,1,2,3]  
 U₀=1  
 Uₙ=Uₙ₋₁+7  
 
