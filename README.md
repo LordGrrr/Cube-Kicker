@@ -1,3 +1,18 @@
+# Middleware (101)
+## Cube-Kicker 
+n = [0,1,2,3,4]  
+U₀=1  
+Uₙ=Uₙ₋₁+7  
+
+  
+## Laboratoire pour le développement d'un moteur digital d'agrégation de l'information (intel agregation).
+
+Informatique: Automatisation de la gestion de l'information.  
+Intelmatic: Automated managment of the intel.
+
+[github.com/LordGrrr/Cube-Kicker/wiki](https://github.com/LordGrrr/Cube-Kicker/wiki)  
+⚠️ Ce wiki est en cours de réalisation⚠️ (livraison prévu pour 2026)
+
 # Nodal Point: 4
 Unité (14): _"Une personne avec 4 propriètés."_  
 **2 (+) 2 = 2 (×) 2 = 2<sup>(2)</sup> = 2! = 4**  
@@ -47,7 +62,7 @@ Environnement, Ambiant, Résultante
 (±1.0) Concept d'**Action-Réaction**.
 
 ### La mémoire de cheminement
-Cheminement, trajéctoire, durées, distances.
+Cheminements, trajéctoires, durées, distances.
 ```
 Pass #1 {
    ite #1: Coup d'avant amène **ici**. (Look 'n' say)
@@ -74,19 +89,7 @@ _It is some time since I have perceived that, from my earliest years, I had rece
 Translated from _**Réné Descarte**_ by GoogleTranslate, with Beysson look over.
 
 
-# Cube-Kicker 
-n = [0,1,2,3,4]  
-U₀=1  
-Uₙ=Uₙ₋₁+7  
 
-  
-## Laboratoire pour le développement d'un moteur digital d'agrégation de l'information (intel agregation).
-
-Informatique: Automatisation de la gestion de l'information.  
-Intelmatic: Automated managment of the intel.
-
-[github.com/LordGrrr/Cube-Kicker/wiki](https://github.com/LordGrrr/Cube-Kicker/wiki)  
-⚠️ Ce wiki est en cours de réalisation⚠️ (livraison prévu pour 2026)
 ##
 ![images3](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/52c06e32-0078-41ce-aeee-d95c682c6eff)
 ![images](https://github.com/LordGrrr/Cube-Kicker/assets/134517577/23819ca3-0797-4d66-8a1f-36e8628cd129)
