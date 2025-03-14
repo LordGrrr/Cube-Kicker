@@ -32,7 +32,7 @@ On pourrait se représenter de façon allégorique, les nouvelles cellules, venu
 <sup>(2)</sup> Update, Upgrade, Quantité  
 
 
-#  Conscience, _la Tricoteuse_
+#  [Le fil de Conscience](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/I.-The-Threads-of-Conscience), _la Tricoteuse_
 <sup>**2 (+) 2 = 2 (×) 2 = 2<sup>(2)</sup> = 2! = 4**  </sup>    
 > **#0: (0)** Instinct
 > * **#1: (\+)** Compréhension / _step-by-step_  / Addition  
