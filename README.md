@@ -43,9 +43,9 @@ On pourrait se représenter de façon allégorique, les nouvelles cellules, venu
 > **#1: (101)** Intuition  
 ```ruby
 Structurant le Tempo:
-#00: Instinc, sentir, voir, envie, besoin, Immédiat, 
+#00: Instinc, sentir, voir, envie, besoin, Instantané,   
 Participant au Tempo:
-#01: {Adiition, Séquenciel, Compréhension , Impulsion,  Instantané,
+#01: {Adiition, Séquenciel, Compréhension , Impulsion, Immédiat,
 #02: {Utilisation, Parallèle, Augmentation, Superposition, Intensité, Habitudes
 #03: {Navigation, Démultiplication, Croissance,  Fréquence-d'Impulsion, Expérience, 
 #04: {Combinaisons, Automatisation, Gestion, Régulation, Développement, Connaissances,  
