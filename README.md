@@ -45,8 +45,8 @@ On pourrait se représenter de façon allégorique, les nouvelles cellules, venu
 Structurant le Tempo:
 #00: Instinc, sentir, voir, envie, besoin, Immédiat, 
 Participant au Tempo:
-#01: {Adiition, Compréhension, Séquence , Impulsion,  Instantané,
-#02: {Utilisation, Augmentation, Parallèle, Superposition, Intensité, Habitudes
+#01: {Adiition, Séquenciel, Compréhension, Séquence , Impulsion,  Instantané,
+#02: {Utilisation, Parallèle, Augmentation, Parallèle, Superposition, Intensité, Habitudes
 #03: {Navigation, Démultiplication, Croissance,  Fréquence-d'Impulsion, Expérience, 
 #04: {Combinaisons, Automatisation, Gestion, Régulation, Développement, Connaissances,  
 Environnement, Ambiant, Résultante  
