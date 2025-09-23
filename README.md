@@ -53,7 +53,8 @@ Environnement, Ambiant, Résultante
 #10: {Arc-en-Ciel, Frange, Harmonie, Équilibre, Amour, Famille, Musique, 
 ```
 ## Main carrier, la graine (22)
-(+0.1) Concept d'***itérations***. John Conway (Look 'n' say).  
+Concept d'***itérations***. John Conway (Look 'n' say).  
+Scalair lader tool {1/3.0f, 0,n1} 
   
 ## L'Inter-action
 (+0.5) Concept d'**Action-Résultante**.
