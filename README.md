@@ -54,7 +54,7 @@ Environnement, Ambiant, Résultante
 ```
 ## Main carrier, la graine (22)
 Concept d'***itérations***. John Conway (Look 'n' say).  
-Scalair lader tool {1/3.0f, 0,n1} 
+Scalair lader tool {1/3.0f, 0.n1f} (<i>0.n1f</i> as 1x10<sup>n</sup>)  
   
 ## L'Inter-action
 (+0.5) Concept d'**Action-Résultante**.
@@ -63,7 +63,7 @@ Scalair lader tool {1/3.0f, 0,n1}
 (±1.0) Concept d'**Action-Réaction**.
 
 ### La mémoire de cheminement
-Cheminements, trajéctoires, durées, distances.
+Tensions, Cheminements, trajéctoires, durées (distance temporelles), distances (durées spatiale).
 ```
 Pass #1 {
    ite #1: Coup d'avant amène **ici**. (Look 'n' say)
