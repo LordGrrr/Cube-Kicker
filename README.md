@@ -15,7 +15,7 @@ Intelmatic: Automated managment of the intel.
 
 # Nodal Point: 4
 Unité (14): _"Une personne avec 4 propriètés."_  
-**2 (+) 2 = 2 (×) 2 = 2<sup>(2)</sup> = 2! = 4**  
+**2 (+) 2 = 2 (×) 2 = 2<sup>(2)</sup> = 2(!) = 4**  
 
 # Minimums: 2
 **Énergie + Moteur: _Ce qui met "les choses" en mouvements._**   
